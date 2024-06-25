@@ -11,3 +11,5 @@ I have collected BTC price data from May 2016 to May 2024, spanning **8 years**,
 The size of this data is **0.265 GB**, which made it difficult to upload to GitHub. Therefore, I broke down the data file into four parts and uploaded their zip files. All the required explaination is provided inside **`BTC_Prediction.ipynb`**.
 
 Next I have made a comparision between **RNN, LSTM & GRU** in the **`RNN_LSTM_GRU.ipynb`** file. In this file I have also made future prediction of 10 days from **31st May 2024 to 10th June 2024**, this future data is saved inside **`Future_10_days.csv`** file.
+
+**For deep understanding read my article :-** [Mastering RNN, LSTM, GRU](https://medium.com/@sayedebad.777/mastering-rnns-the-key-to-understanding-sequential-data-66e1e9383686)
